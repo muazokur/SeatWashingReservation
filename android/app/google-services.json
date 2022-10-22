@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177951768117",
+    "project_id": "seatwashing-79f54",
+    "storage_bucket": "seatwashing-79f54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177951768117:android:795aec5e720cde66d13b7c",
+        "android_client_info": {
+          "package_name": "com.erginseatwashing.seatwashing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177951768117-ip2lq7vnjrv4tsfoi44gql47mr1pca7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erginseatwashing.seatwashing",
+            "certificate_hash": "346551311b2483824d290b54c7ed1940dc6b6a7a"
+          }
+        },
+        {
+          "client_id": "177951768117-42o9ok4ructlspm4jpd95ed80o2sm2qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhZkeA5exVfb4UBuL1IrrlNoo7xTuBuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177951768117-42o9ok4ructlspm4jpd95ed80o2sm2qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
