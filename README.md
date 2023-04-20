@@ -1,16 +1,10 @@
-# seatwashing
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1647700331](https://user-images.githubusercontent.com/65358560/233391519-750e1347-b821-4f63-8190-994ce3a6d1ea.png)
+![Screenshot_1647700341](https://user-images.githubusercontent.com/65358560/233391522-2aaad64b-07b7-4935-a2fa-a1d26d4ee88d.png)
+![Screenshot_1647700359](https://user-images.githubusercontent.com/65358560/233391525-8927819f-34e3-4513-815e-7a3b4efd4be4.png)
+![Screenshot_1647700365](https://user-images.githubusercontent.com/65358560/233391528-356eadcd-eac4-4a57-a7f3-8ae2dc9be295.png)
+![Screenshot_1647701816](https://user-images.githubusercontent.com/65358560/233391532-f246b391-d972-4657-8914-04353f858bcb.png)
+![Screenshot_1647701948](https://user-images.githubusercontent.com/65358560/233391539-6fbeb9cf-e31d-43fa-ada6-83c32961b11b.png)
+![Screenshot_1647702010](https://user-images.githubusercontent.com/65358560/233391545-ae519d8a-0506-4b8e-bace-bc880894cd8c.png)
+![Screenshot_1647702097](https://user-images.githubusercontent.com/65358560/233391549-c553837f-6a6c-4ca6-8670-71a87bf939f9.png)
+![Screenshot_1647702101](https://user-images.githubusercontent.com/65358560/233391556-7d2c4ba9-ec42-4b23-adf3-99556cf59369.png)
+![Screenshot_1647702107](https://user-images.githubusercontent.com/65358560/233391564-b8c593a6-5d64-4a37-b7f8-42b26b5164bd.png)
